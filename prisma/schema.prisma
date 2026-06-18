@@ -1,0 +1,306 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ─────────────────────────────────────────────
+// ENUMERATIONS
+// ─────────────────────────────────────────────
+
+enum MediaType {
+  ANIME
+  MANGA
+  MOVIE
+  TELEVISION
+  ANIMATION
+  COMIC
+  GAME
+  LIGHT_NOVEL
+  NOVEL
+  WEB_SERIES
+  OVA
+  ONA
+  SPECIAL
+  OTHER
+}
+
+enum MediaStatus {
+  ONGOING
+  COMPLETED
+  CANCELLED
+  HIATUS
+  ANNOUNCED
+  UPCOMING
+}
+
+enum ImportJobStatus {
+  PENDING
+  RUNNING
+  PAUSED
+  COMPLETED
+  FAILED
+}
+
+// ─────────────────────────────────────────────
+// LOOKUP TABLES
+// ─────────────────────────────────────────────
+
+model Genre {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  slug      String   @unique
+  createdAt DateTime @default(now())
+}
+
+model Franchise {
+  id          Int          @id @default(autoincrement())
+  name        String       @unique
+  slug        String       @unique
+  description String?
+  imageUrl    String?
+  createdAt   DateTime     @default(now())
+  titles      MediaTitle[]
+}
+
+model Universe {
+  id          Int          @id @default(autoincrement())
+  name        String       @unique
+  slug        String       @unique
+  description String?
+  imageUrl    String?
+  createdAt   DateTime     @default(now())
+  titles      MediaTitle[]
+}
+
+model ExternalSource {
+  id         Int          @id @default(autoincrement())
+  name       String       @unique
+  baseUrl    String
+  apiDocsUrl String?
+  logoUrl    String?
+  isEnabled  Boolean      @default(true)
+  createdAt  DateTime     @default(now())
+  titles     MediaTitle[]
+  importJobs ImportJob[]
+}
+
+// ─────────────────────────────────────────────
+// MAIN MEDIA TABLE
+// ─────────────────────────────────────────────
+
+model MediaTitle {
+  id                Int             @id @default(autoincrement())
+  canonicalTitle    String
+  originalTitle     String?
+  alternativeTitles Json            @default("[]")
+  slug              String          @unique
+  mediaType         MediaType
+  subType           String?
+  status            MediaStatus     @default(COMPLETED)
+
+  franchiseId      Int?
+  franchise        Franchise?      @relation(fields: [franchiseId], references: [id])
+  universeId       Int?
+  universe         Universe?       @relation(fields: [universeId], references: [id])
+  externalSourceId Int?
+  externalSource   ExternalSource? @relation(fields: [externalSourceId], references: [id])
+
+  genres Json @default("[]")
+
+  releaseYear  Int?
+  releaseDate  DateTime?
+  endYear      Int?
+  country      String?
+  language     String?
+  themes       Json    @default("[]")
+  description  String? @db.Text
+  episodeCount Int?
+  volumeCount  Int?
+  chapterCount Int?
+  duration     Int?
+  imageUrl     String?
+  bannerUrl    String?
+
+  sourceUrl  String?
+  sourceName String?
+  externalId String?
+
+  adultContent Boolean @default(false)
+  isDemoData   Boolean @default(false)
+  isVerified   Boolean @default(false)
+  isHidden     Boolean @default(false)
+
+  popularity Float  @default(0)
+  rating     Float?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  spinHistories   SpinHistory[]
+  userCollections UserCollection[]
+  excludedByUsers ExcludedTitle[]
+  customEntryMeta CustomTitle?
+
+  @@index([mediaType])
+  @@index([slug])
+  @@index([releaseYear])
+  @@index([popularity])
+  @@index([isDemoData])
+  @@index([adultContent])
+  @@index([franchiseId])
+  @@index([universeId])
+  @@index([isHidden])
+}
+
+// ─────────────────────────────────────────────
+// USER-FACING FEATURE TABLES
+// ─────────────────────────────────────────────
+
+model SpinHistory {
+  id           Int        @id @default(autoincrement())
+  sessionId    String
+  userId       String?
+  user         User?      @relation(fields: [userId], references: [id])
+  mediaTitleId Int
+  mediaTitle   MediaTitle @relation(fields: [mediaTitleId], references: [id])
+  filterHash   String?
+  wheelConfig  Json?
+  spunAt       DateTime   @default(now())
+
+  @@index([sessionId])
+  @@index([userId])
+  @@index([spunAt])
+}
+
+model UserCollection {
+  id           Int          @id @default(autoincrement())
+  userId       String
+  user         User         @relation(fields: [userId], references: [id])
+  name         String
+  description  String?
+  filterConfig Json
+  createdAt    DateTime     @default(now())
+  updatedAt    DateTime     @updatedAt
+  titles       MediaTitle[]
+}
+
+model ExcludedTitle {
+  id           Int        @id @default(autoincrement())
+  sessionId    String?
+  userId       String?
+  user         User?      @relation(fields: [userId], references: [id])
+  mediaTitleId Int
+  mediaTitle   MediaTitle @relation(fields: [mediaTitleId], references: [id])
+  createdAt    DateTime   @default(now())
+
+  @@unique([sessionId, mediaTitleId])
+  @@unique([userId, mediaTitleId])
+}
+
+model CustomTitle {
+  id           Int        @id @default(autoincrement())
+  mediaTitleId Int        @unique
+  mediaTitle   MediaTitle @relation(fields: [mediaTitleId], references: [id])
+  submittedBy  String?
+  user         User?      @relation(fields: [submittedBy], references: [id])
+  reviewStatus String     @default("pending")
+  reviewedBy   String?
+  reviewNotes  String?
+  createdAt    DateTime   @default(now())
+}
+
+// ─────────────────────────────────────────────
+// IMPORT SYSTEM
+// ─────────────────────────────────────────────
+
+model ImportJob {
+  id               Int             @id @default(autoincrement())
+  externalSourceId Int
+  externalSource   ExternalSource  @relation(fields: [externalSourceId], references: [id])
+  status           ImportJobStatus @default(PENDING)
+  params           Json
+  totalRecords     Int             @default(0)
+  processedRecords Int             @default(0)
+  insertedRecords  Int             @default(0)
+  skippedRecords   Int             @default(0)
+  errorLog         Json            @default("[]")
+  startedAt        DateTime?
+  completedAt      DateTime?
+  createdAt        DateTime        @default(now())
+  createdBy        String?
+
+  @@index([status])
+}
+
+// ─────────────────────────────────────────────
+// SAMPLING OPTIMIZATION
+// ─────────────────────────────────────────────
+
+model FilterCountCache {
+  id          Int      @id @default(autoincrement())
+  filterHash  String   @unique
+  filterState Json
+  totalCount  Int
+  computedAt  DateTime @default(now())
+  expiresAt   DateTime
+
+  @@index([expiresAt])
+}
+
+// ─────────────────────────────────────────────
+// AUTH (NextAuth / Auth.js)
+// ─────────────────────────────────────────────
+
+model User {
+  id             String    @id @default(cuid())
+  name           String?
+  email          String?   @unique
+  emailVerified  DateTime?
+  image          String?
+  role           String    @default("user")
+  createdAt      DateTime  @default(now())
+  accounts       Account[]
+  sessions       Session[]
+  spinHistories  SpinHistory[]
+  collections    UserCollection[]
+  excludedTitles ExcludedTitle[]
+  customTitles   CustomTitle[]
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String? @db.Text
+  access_token      String? @db.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @db.Text
+  session_state     String?
+  user              User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+}
+
+model Session {
+  id           String   @id @default(cuid())
+  sessionToken String   @unique
+  userId       String
+  expires      DateTime
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
