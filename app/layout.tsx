@@ -47,6 +47,12 @@ export const metadata: Metadata = {
     description: "Spin the wheel. Discover a universe of fiction.",
     type: "website",
   },
+  themeColor: "#7c3aed",
+  appleWebApp: {
+    capable: true,
+    statusBarStyle: "black-translucent",
+    title: "OmniverseWheel",
+  },
 };
 
 export default function RootLayout({
@@ -56,6 +62,21 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="dark">
+      <head>
+        <link rel="apple-touch-icon" href="/icons/icon-192.svg" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              if ('serviceWorker' in navigator) {
+                window.addEventListener('load', function() {
+                  navigator.serviceWorker.register('/sw.js').catch(function() {});
+                });
+              }
+            `,
+          }}
+        />
+      </head>
       <body
         className={`${inter.variable} ${cinzel.variable} ${jetbrainsMono.variable} font-body`}
       >

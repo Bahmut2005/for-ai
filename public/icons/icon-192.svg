@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <!-- Background -->
+  <rect width="192" height="192" rx="40" fill="#05050f"/>
+  <!-- Outer ring -->
+  <circle cx="96" cy="96" r="84" fill="none" stroke="#7c3aed" stroke-width="4" opacity="0.6"/>
+  <!-- Wheel segments (8 simplified) -->
+  <path d="M96 96 L96 14 A82 82 0 0 1 154 35 Z" fill="#ef4444" opacity="0.85"/>
+  <path d="M96 96 L154 35 A82 82 0 0 1 178 96 Z" fill="#f97316" opacity="0.85"/>
+  <path d="M96 96 L178 96 A82 82 0 0 1 154 157 Z" fill="#3b82f6" opacity="0.85"/>
+  <path d="M96 96 L154 157 A82 82 0 0 1 96 178 Z" fill="#8b5cf6" opacity="0.85"/>
+  <path d="M96 96 L96 178 A82 82 0 0 1 38 157 Z" fill="#22c55e" opacity="0.85"/>
+  <path d="M96 96 L38 157 A82 82 0 0 1 14 96 Z" fill="#eab308" opacity="0.85"/>
+  <path d="M96 96 L14 96 A82 82 0 0 1 38 35 Z" fill="#ec4899" opacity="0.85"/>
+  <path d="M96 96 L38 35 A82 82 0 0 1 96 14 Z" fill="#14b8a6" opacity="0.85"/>
+  <!-- Dividers -->
+  <line x1="96" y1="14" x2="96" y2="96" stroke="#05050f" stroke-width="2"/>
+  <line x1="154" y1="35" x2="96" y2="96" stroke="#05050f" stroke-width="2"/>
+  <line x1="178" y1="96" x2="96" y2="96" stroke="#05050f" stroke-width="2"/>
+  <line x1="154" y1="157" x2="96" y2="96" stroke="#05050f" stroke-width="2"/>
+  <line x1="96" y1="178" x2="96" y2="96" stroke="#05050f" stroke-width="2"/>
+  <line x1="38" y1="157" x2="96" y2="96" stroke="#05050f" stroke-width="2"/>
+  <line x1="14" y1="96" x2="96" y2="96" stroke="#05050f" stroke-width="2"/>
+  <line x1="38" y1="35" x2="96" y2="96" stroke="#05050f" stroke-width="2"/>
+  <!-- Outer ring overlay -->
+  <circle cx="96" cy="96" r="82" fill="none" stroke="rgba(168,85,247,0.4)" stroke-width="3"/>
+  <!-- Center hub -->
+  <circle cx="96" cy="96" r="24" fill="#05050f" stroke="#7c3aed" stroke-width="3"/>
+  <!-- Swirl / logo -->
+  <text x="96" y="104" text-anchor="middle" font-size="24" fill="rgba(168,85,247,0.95)">🌀</text>
+  <!-- Pointer -->
+  <polygon points="96,4 100,16 92,16" fill="#c084fc" stroke="#7c3aed" stroke-width="1"/>
+</svg>
