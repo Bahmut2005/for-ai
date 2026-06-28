@@ -719,6 +719,26 @@ body::before {
   line-height: 1.7;
 }
 
+/* ─── Act sections on map ────────────────────────────────────────────── */
+.act-section {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.act-title {
+  font-family: 'Cinzel', serif;
+  font-size: 0.78rem;
+  color: var(--gold);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 10px 4px 4px;
+  border-bottom: 1px solid rgba(243,156,18,0.2);
+  margin-top: 8px;
+}
+
+.act-section:first-child .act-title { margin-top: 0; }
+
 /* ─── Responsive ────────────────────────────────────────────────────── */
 @media (max-width: 600px) {
   .battle-field { grid-template-columns: 1fr; }

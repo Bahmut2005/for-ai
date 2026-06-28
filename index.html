@@ -9,9 +9,7 @@
 <body>
 <div id="app">
 
-  <!-- ═══════════════════════════════════════════════════════════════════
-       TITLE SCREEN
-  ═══════════════════════════════════════════════════════════════════ -->
+  <!-- ═══ TITLE ═══════════════════════════════════════════════════════════ -->
   <div id="screen-title" data-screen>
     <div class="title-dragon-eye">🐲</div>
     <div>
@@ -19,72 +17,44 @@
       <div class="title-sub">Red Dragon Emperor · RPG</div>
     </div>
     <div class="title-quote">
-      <span class="ddraig-voice">Ddraig:</span> "The power of the Red Dragon Emperor
-      lives within you. The Welsh Dragon awakens.
-      Prove yourself worthy of the Boosted Gear, Partner."
+      <span class="ddraig-voice">Ddraig:</span>
+      "The Welsh Dragon awakens within you. The power of the Red Dragon Emperor
+       stirs across twenty battles — from a fallen angel's cemetery to the final
+       storm dragon that has devoured gods. Prove yourself worthy, Partner."
     </div>
     <div>
-      <button class="btn btn-primary" onclick="startGame()" style="font-size:1.1rem; padding:14px 40px;">
+      <button class="btn btn-primary" onclick="startGame()" style="font-size:1.1rem;padding:14px 40px;">
         ⚡ Begin Your Journey
       </button>
     </div>
-    <div style="font-size:0.78rem; color:var(--text-muted); letter-spacing:1px;">
-      HIGH SCHOOL DxD FAN RPG · TURN-BASED BATTLES
+    <div style="font-size:0.78rem;color:var(--text-muted);letter-spacing:1px;">
+      HIGH SCHOOL DxD FAN RPG · 20 CHAPTERS · VOL. 1 → SHIN DxD VOL. 4
     </div>
   </div>
 
-  <!-- ═══════════════════════════════════════════════════════════════════
-       WORLD MAP / CHAPTER SELECT
-  ═══════════════════════════════════════════════════════════════════ -->
+  <!-- ═══ WORLD MAP ════════════════════════════════════════════════════════ -->
   <div id="screen-map" data-screen class="hidden">
     <div class="map-title">⚔️ Kuoh Town — World Map</div>
-
-    <!-- Player status bar -->
     <div class="player-status-bar">
-      <div class="pstat">
-        <div class="pstat-val" id="map-level">1</div>
-        <div class="pstat-label">LEVEL</div>
-      </div>
-      <div class="pstat">
-        <div class="pstat-val" id="map-hp" style="font-size:0.95rem;">160/160</div>
-        <div class="pstat-label">HP</div>
-      </div>
-      <div class="pstat">
-        <div class="pstat-val" id="map-atk">18</div>
-        <div class="pstat-label">ATTACK</div>
-      </div>
-      <div class="pstat">
-        <div class="pstat-val" id="map-def">10</div>
-        <div class="pstat-label">DEFENSE</div>
-      </div>
-      <div class="pstat">
-        <div class="pstat-val" id="map-gold" style="color:var(--gold)">0</div>
-        <div class="pstat-label">GOLD</div>
-      </div>
-      <div class="pstat">
-        <div class="pstat-val" id="map-exp" style="font-size:0.8rem; color:var(--text-muted)">0/100</div>
-        <div class="pstat-label">EXP</div>
-      </div>
+      <div class="pstat"><div class="pstat-val" id="map-level">1</div><div class="pstat-label">LEVEL</div></div>
+      <div class="pstat"><div class="pstat-val" id="map-hp" style="font-size:0.9rem">160/160</div><div class="pstat-label">HP</div></div>
+      <div class="pstat"><div class="pstat-val" id="map-atk">18</div><div class="pstat-label">ATTACK</div></div>
+      <div class="pstat"><div class="pstat-val" id="map-def">10</div><div class="pstat-label">DEFENSE</div></div>
+      <div class="pstat"><div class="pstat-val" id="map-gold" style="color:var(--gold)">0</div><div class="pstat-label">GOLD</div></div>
+      <div class="pstat"><div class="pstat-val" id="map-exp" style="font-size:0.8rem;color:var(--text-muted)">0/100</div><div class="pstat-label">EXP</div></div>
     </div>
-
-    <!-- Chapter list -->
     <div class="chapters-list" id="chapters-list"></div>
-
-    <div style="text-align:center; color:var(--text-muted); font-size:0.8rem; margin-top:8px;">
-      🐲 Complete chapters to unlock the next enemy · Boost! stacks double your power
+    <div style="text-align:center;color:var(--text-muted);font-size:0.78rem;margin-top:8px;padding-bottom:20px;">
+      🐲 20 chapters · Vol. 1 through Shin DxD Vol. 4 · New abilities unlock as you level up
     </div>
   </div>
 
-  <!-- ═══════════════════════════════════════════════════════════════════
-       STORY / INTRO SCREEN
-  ═══════════════════════════════════════════════════════════════════ -->
+  <!-- ═══ STORY / INTRO ════════════════════════════════════════════════════ -->
   <div id="screen-story" data-screen class="hidden">
     <div id="story-content"></div>
   </div>
 
-  <!-- ═══════════════════════════════════════════════════════════════════
-       BATTLE SCREEN
-  ═══════════════════════════════════════════════════════════════════ -->
+  <!-- ═══ BATTLE ══════════════════════════════════════════════════════════ -->
   <div id="screen-battle" data-screen class="hidden">
 
     <div class="battle-header">
@@ -93,15 +63,14 @@
       <span id="turn-badge" class="turn-badge turn-player">YOUR TURN</span>
     </div>
 
-    <!-- Combatant cards -->
     <div class="battle-field">
-
       <!-- Player -->
       <div class="combatant-card player-card" id="player-card">
-        <div class="combatant-name">Issei Hyoudou <span id="p-level" style="font-size:0.75rem; color:var(--text-muted)">Lv.1</span></div>
+        <div class="combatant-name">
+          Issei Hyoudou <span id="p-level" style="font-size:0.75rem;color:var(--text-muted)">Lv.1</span>
+        </div>
         <div class="combatant-title">Red Dragon Emperor</div>
         <div class="combatant-art"><span class="art-emoji">🔴</span></div>
-
         <div class="stat-row">
           <span class="stat-label">HP</span>
           <div class="stat-bar-bg"><div class="stat-bar-fill hp-fill" id="p-hp-bar" style="width:100%"></div></div>
@@ -116,13 +85,11 @@
           <span class="exp-label" id="p-exp-label">EXP 0/100</span>
           <div class="exp-bar-bg"><div class="exp-bar-fill" id="p-exp-bar" style="width:0%"></div></div>
         </div>
-
         <div class="boost-display" id="boost-display">
           <span class="boost-icon">⚡</span>
           <span class="boost-label">Boosted Gear</span>
           <span class="boost-value" id="boost-value">×1</span>
         </div>
-
         <div class="status-effects" id="p-statuses"></div>
       </div>
 
@@ -131,7 +98,6 @@
         <div class="combatant-name" id="e-name">Enemy</div>
         <div class="combatant-title" id="e-title">—</div>
         <div class="combatant-art"><span class="art-emoji" id="e-art">❓</span></div>
-
         <div class="stat-row">
           <span class="stat-label">HP</span>
           <div class="stat-bar-bg"><div class="stat-bar-fill hp-fill" id="e-hp-bar" style="width:100%"></div></div>
@@ -142,101 +108,41 @@
           <div class="stat-bar-bg"><div class="stat-bar-fill mp-fill" id="e-mp-bar" style="width:100%"></div></div>
           <span class="stat-val" id="e-mp-val">— / —</span>
         </div>
-        <div style="height:26px"></div><!-- spacer -->
-
+        <div style="height:52px"></div>
         <div class="status-effects" id="e-statuses"></div>
       </div>
     </div>
 
-    <!-- Battle log -->
     <div class="battle-log" id="battle-log"></div>
 
-    <!-- Action panel -->
     <div class="actions-panel">
-      <div class="actions-title">ACTIONS</div>
-      <div class="actions-grid">
-
-        <button class="btn-action type-attack" data-action="punch" onclick="playerAction('punch')">
-          <div class="act-icon">👊</div>
-          <span class="act-name">Dragon Punch</span>
-          <span class="act-desc">Basic gauntlet strike</span>
-          <span class="act-cost">Free</span>
-        </button>
-
-        <button class="btn-action type-boost" data-action="boost" onclick="playerAction('boost')">
-          <div class="act-icon">⚡</div>
-          <span class="act-name">BOOST!</span>
-          <span class="act-desc">Ddraig doubles power</span>
-          <span class="act-cost">Free</span>
-        </button>
-
-        <button class="btn-action type-attack" data-action="dragonShot" onclick="playerAction('dragonShot')">
-          <div class="act-icon">🔴</div>
-          <span class="act-name">Dragon Shot</span>
-          <span class="act-desc">Energy burst attack</span>
-          <span class="act-cost">15 MP</span>
-        </button>
-
-        <button class="btn-action type-special" data-action="dressBreak" onclick="playerAction('dressBreak')">
-          <div class="act-icon">💥</div>
-          <span class="act-name">Dress Break!</span>
-          <span class="act-desc">Halves enemy defense</span>
-          <span class="act-cost">20 MP</span>
-        </button>
-
-        <button class="btn-action type-special" data-action="balanceBreaker" onclick="playerAction('balanceBreaker')">
-          <div class="act-icon">🐲</div>
-          <span class="act-name">Balance Breaker</span>
-          <span class="act-desc">Needs ×4 boost first!</span>
-          <span class="act-cost">60 MP</span>
-        </button>
-
-        <button class="btn-action type-support" data-action="heal" onclick="playerAction('heal')">
-          <div class="act-icon">💖</div>
-          <span class="act-name">Rias's Gift</span>
-          <span class="act-desc">Recover 30% HP</span>
-          <span class="act-cost">25 MP</span>
-        </button>
-
-      </div>
+      <div class="actions-title">ACTIONS — NEW ABILITIES UNLOCK AS YOU LEVEL UP</div>
+      <div class="actions-grid" id="actions-grid"></div>
     </div>
 
-    <!-- Bottom nav -->
     <div class="flex-center mt-8" style="padding-bottom:16px;">
-      <button class="btn btn-outline" onclick="goToMap()" style="font-size:0.8rem; padding:8px 18px;">
+      <button class="btn btn-outline" onclick="goToMap()" style="font-size:0.8rem;padding:8px 18px;">
         ↩ Retreat to Map
       </button>
     </div>
   </div>
 
-  <!-- ═══════════════════════════════════════════════════════════════════
-       RESULT SCREEN
-  ═══════════════════════════════════════════════════════════════════ -->
+  <!-- ═══ RESULT ═══════════════════════════════════════════════════════════ -->
   <div id="screen-result" data-screen class="hidden">
     <div id="result-screen" class="result-victory">
       <div class="result-icon" id="result-icon">🏆</div>
       <div class="result-title" id="result-title">Victory!</div>
-
-      <div style="color:var(--text-muted); font-style:italic; max-width:400px; text-align:center; line-height:1.6;" id="result-dialog"></div>
-
+      <div id="result-dialog" style="color:var(--text-muted);font-style:italic;max-width:420px;text-align:center;line-height:1.6;"></div>
       <div class="result-rewards" id="result-rewards"></div>
-
       <div class="flex-center">
-        <button id="result-btn-retry" class="btn btn-outline hidden" onclick="retryChapter()">
-          🔁 Retry Chapter
-        </button>
-        <button id="result-btn-continue" class="btn btn-gold" onclick="continueAfterVictory()">
-          Next Chapter ➜
-        </button>
-        <button class="btn btn-outline" onclick="goToMap()">
-          ↩ World Map
-        </button>
+        <button id="result-btn-retry" class="btn btn-outline hidden" onclick="retryChapter()">🔁 Retry</button>
+        <button id="result-btn-continue" class="btn btn-gold" onclick="continueAfterVictory()">Next Chapter ➜</button>
+        <button class="btn btn-outline" onclick="goToMap()">↩ World Map</button>
       </div>
     </div>
   </div>
 
 </div>
-
 <script src="game.js"></script>
 </body>
 </html>
