@@ -10,7 +10,7 @@
 
 On the second night of the Ravager administration, the gacha machine was still insulting its new management.
 
-The great wheel had migrated, physically, down from its high corner to a crooked console in the Ravager block — a lever, a coin slot that took no coin, and a brass plaque that had already reprinted itself four times. Tonight it read: **OPERATOR OF RECORD: UDONTA, Y. — CLEARANCE: PROVISIONAL. REASON: SENTIMENTALITY DETECTED.**
+The great wheel had migrated down from its high corner to a crooked console in the Ravager block — a lever, a coin slot that took no coin, and a brass plaque that tonight read: **OPERATOR OF RECORD: UDONTA, Y. — CLEARANCE: PROVISIONAL. REASON: SENTIMENTALITY DETECTED.**
 
 "It called me *sentimental*," Yondu said, wounded, to the theatre at large. "In front of Stakar."
 
@@ -18,9 +18,9 @@ The great wheel had migrated, physically, down from its high corner to a crooked
 
 High in the upper right of the screen, the crack from arc's-end ticked once, softly, like a clock in another room. Nobody mentioned it anymore. Everybody heard it.
 
-Stakar Ogord stood with his arms folded, watching the wheel the way a man watches a rigged card game he's been ordered to play anyway. "Pull the lever, Yondu. Machine picked us to run it for a reason, and I'd rather find out the reason than get told it."
+Stakar Ogord watched the wheel the way a man watches a rigged card game he's been ordered to play anyway. "Pull the lever, Yondu. Machine picked us to run it for a reason, and I'd rather find out the reason than get told it."
 
-"Fine, fine." Yondu spat on his palm, gripped the lever, and grinned his ruined grin up at the screen. "Alright, you smug hunk of scrap. Show us what a dragon does for money."
+Yondu spat on his palm, gripped the lever, and grinned his ruined grin up at the screen. "Alright, you smug hunk of scrap. Show us what a dragon does for money."
 
 He pulled.
 
@@ -36,9 +36,9 @@ The theatre took its breath, and swallowed them.
 
 Night, in the vision, over a black border sea in the underworld — a sky with no stars, lit from below by the fires of a nation eating itself.
 
-The captions laid it out with the machine's usual cold economy. A devil principality gone rotten: an old-blood tyrant purging his own territory of everything impure — reincarnated devils, half-bloods, humans who had seen too much, families whose only crime was existing on the wrong page of a genealogy. Border wards sealed. Watchtowers paid by the head.
+The captions laid it out with the machine's usual cold economy. A devil principality gone rotten: an old-blood tyrant purging his territory of everything impure — reincarnated devils, half-bloods, humans who had seen too much. Border wards sealed. Watchtowers paid by the head.
 
-And running the blockade, low over the water with their lights doused, a flotilla of the ugliest ships the Ravagers had ever approved of on sight: smuggler craft, patched and unlicensed, holds crammed not with cargo but with *people*. Hundreds of them. Children asleep on coiled rope.
+And running the blockade, lights doused, a flotilla of the ugliest ships the Ravagers had ever approved of on sight: smuggler craft, patched and unlicensed, holds crammed not with cargo but with *people*. Hundreds. Children asleep on coiled rope.
 
 On the lead ship's deck, leaning on the rail like he'd been born on it, stood Issei Hyoudou — and beneath his feet, unmistakable, the deck itself was *alive*, timbers flexing like muscle, a familiar dragon-prowed silhouette grown to full running size.
 
@@ -46,9 +46,7 @@ On the lead ship's deck, leaning on the rail like he'd been born on it, stood Is
 
 "He is a good ship," Drax agreed solemnly. "He has chosen a good captain. This is known."
 
-The smuggler captain came up the deck to Issei — a scarred low-class devil with brands on his knuckles and a ledger where his conscience should be — and the theatre watched the negotiation the vision had chosen to show them. Not the money. The money was already paid; the captions said Issei had emptied out everything a high-class devil's stipend was worth, without haggling, and Mephisto's chuckle drifted up from the villains' dark like smoke off a ledger.
-
-No — the vision showed the *handshake*.
+The smuggler captain came up the deck to Issei — a scarred low-class devil with brands on his knuckles and a ledger where his conscience should be. The money was already paid; the captions said Issei had emptied a high-class devil's stipend without haggling, and Mephisto's chuckle drifted up from the villains' dark like smoke off a ledger. What the vision chose to show them was the *handshake*.
 
 "Rules are rules, kid," the smuggler captain said. "My fleet, my sea, my routes. You don't like how I run 'em, swim."
 
@@ -62,7 +60,7 @@ The captain looked at the gauntlet for a long moment. Then he spat on his palm a
 
 "Kid drives a Ravager bargain," Stakar said quietly, in the theatre. "Pay full, swear terms, spit and shake. Where in nine galaxies did a schoolboy learn contract law for pirates?"
 
-The run itself played out in long, gorgeous, held-breath minutes. Patrol wards sweeping the water. The flotilla threading a reef of sensor-spells with inches to spare. And when the tyrant's border cutters finally caught their wake and closed in with the horrible patience of things that are paid by the head — the theatre heard it, the sound half the room had learned to lean forward at:
+The run played out in long, held-breath minutes — patrol wards sweeping the water, the flotilla threading a reef of sensor-spells with inches to spare — and when the tyrant's border cutters finally caught their wake and closed in, the theatre heard the sound half the room had learned to lean forward at:
 
 **[BOOST.]**
 
