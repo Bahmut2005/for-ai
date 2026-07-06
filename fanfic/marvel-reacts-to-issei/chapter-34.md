@@ -30,7 +30,7 @@ The vision gave the audience one full minute of the market operating normally �
 
 Then the wards died. All of them, at once, the way a candle dies in a doorway.
 
-Issei Hyoudou walked in through the front entrance, because of course he did, past the tout who checked invitations, and the theatre knew the walk by now — they'd seen it approach Raynare's church, approach Kokabiel, approach every closed door in his life. But the face over it was one they hadn't seen. Not rage. Rage was loud, and they'd have recognized it. This was arithmetic.
+Issei Hyoudou walked in through the front entrance, because of course he did, and the theatre knew the walk by now — they'd seen it approach Raynare's church, Kokabiel, every closed door in his life. But the face over it was one they hadn't seen. Not rage. Rage was loud, and they'd have recognized it. This was arithmetic.
 
 **[BOOST.]**
 
@@ -42,9 +42,9 @@ Every slaver in the room had the same thought at the same time — it was writte
 
 **[BOOST. BOOST. BOOST.]**
 
-What followed took ninety seconds, and the screen did not linger, and neither did he. That was the part the theatre would argue about for the rest of the night — not the violence, the *economy* of it. They had watched this boy fight for thirty-three chapters, and he fought the way he lived: loudly, wastefully, taking hits he didn't need to take so that someone behind him wouldn't. He checked for surrender the way other men checked their footing.
+What followed took ninety seconds, and the screen did not linger, and neither did he. That was the part the theatre would argue about all night — not the violence, the *economy* of it. They had watched this boy fight for thirty-three chapters, and he fought the way he lived: loudly, wastefully, taking hits he didn't need to take so someone behind him wouldn't. He checked for surrender the way other men checked their footing.
 
-Not here. Scale Mail closed over him like a verdict, and Ascalon came out, and he offered no terms, accepted none, and left none of them alive — the broker with the laugh, the tout with the guest list, the wardsmith who'd made the small collars, the ones who ran and the two who knelt. A guard threw down his weapon and raised his hands, and the theatre leaned forward, because *this* was where Issei Hyoudou always, always stopped.
+Not here. Scale Mail closed over him like a verdict, Ascalon came out, and he offered no terms and left none of them alive — the broker with the laugh, the wardsmith who'd made the small collars, the ones who ran and the two who knelt. A guard threw down his weapon and raised his hands, and the theatre leaned forward, because *this* was where Issei Hyoudou always, always stopped.
 
 "You sized the collars," Issei said, and did not stop.
 
@@ -52,21 +52,21 @@ It was fast every time. It was never cruel. It was a door being closed forty tim
 
 "**Partner,**" came Ddraig's voice, low, when it was done and the aura settled — and the theatre noticed the dragon had not spoken once during, had not needed to counsel or restrain, had simply *attended*. "**None of the usual sermon tonight?**"
 
-"They kept people, Ddraig." He was already moving down the cage rows, armor retracting from his hands so the hands reaching back through the bars would touch skin. "You can come back from almost anything. I keep saying that, right? Raynare's people, Riser, Vali — everybody keeps score of who I let walk." He tore a cage door off its hinges, gently, which should not have been possible and was. "There's no *walking back* from selling a kid a collar in his size. That's not a fight. That's a thing you *are.*"
+"They kept people, Ddraig." He was already moving down the cage rows, armor retracting from his hands so the hands reaching back through the bars would touch skin. "You can come back from almost anything — I keep saying that, right? Everybody keeps score of who I let walk." He tore a cage door off its hinges, gently, which should not have been possible and was. "There's no *walking back* from selling a kid a collar in his size. That's not a fight. That's a thing you *are.*"
 
 "**I have lived inside a cage for a very long time,**" said the Welsh Dragon Emperor, softly, to his partner and to a listening multiverse. "**Sealed in this Gear by a god's hand, passed from wielder to wielder like a lamp. You are the first who ever asked me what I wanted. So understand that I say this as an expert and not a moralist: you have my blessing. Burn it.**"
 
-He got the last cage open first. Then he burned it — dragon-fire, floor to vault, thorough as an audit, the chalk lot-numbers and the auction ledger and the rack of collars going up while he stood in the entrance with a child on each arm, and the vision held on the fire until it wasn't a market anymore. It wasn't anything anymore.
+He got the last cage open first. Then he burned it — dragon-fire, floor to vault, thorough as an audit, chalk and ledger and the rack of collars going up while he stood in the entrance with a child on each arm, and the vision held on the fire until it wasn't a market anymore. It wasn't anything anymore.
 
 ---
 
 The lights came up on a theatre that had watched him kill before — strays, monsters, Apophis in a war — and had never once watched him kill like *that*, and the first sound was Frank Castle, from the antihero row, exhaling like a man setting down a weight.
 
-"There it is," the Punisher said. "Thirty-four chapters. I knew he had a floor. Everybody's got a floor."
+"There it is," the Punisher said. "Thirty-four chapters. I knew he had a floor. Everybody's got one."
 
-"That was not a floor, Castle, that was an *execution docket*—" General Ross was on his feet in the government block, jabbing a finger at the afterimage. "Forty sentient beings, no trial, no authority, no—"
+"That was not a floor, Castle, that was an *execution docket*—" General Ross was on his feet in the government block. "Forty sentient beings, no trial, no authority, no—"
 
-"No survivors to rebuild the network out of," said Nick Fury, not standing, one eye on the screen like it owed him money. "You want to be mad, Ross, be mad. But I've spent forty years watching us raid these operations *legally*. You seize the ledger, you flip the middlemen, you extradite the broker, and eighteen months later the same market's open two systems over with better wards, because the *market* was never the men, it was the demand, and the only thing that touches demand is cost." A pause. "He just repriced the industry. Ask me tomorrow if I'm okay with it, 'cause tonight I don't have a better answer."
+"No survivors to rebuild the network out of," said Nick Fury, not standing. "Be mad, Ross. But I've spent forty years raiding these operations *legally*. You seize the ledger, flip the middlemen, extradite the broker, and eighteen months later the same market's open two systems over with better wards. The market was never the men. It was the demand, and the only thing that touches demand is cost." A pause. "He just repriced the industry. Ask me tomorrow if I'm okay with it, 'cause tonight I don't have a better answer."
 
 "The kneeling one," Daredevil said quietly, from the dark, and the antihero row turned, because Matt Murdock's voice had the sound of a man arguing with himself and losing. "He surrendered. Issei killed him anyway. I've built my whole life on the space between those two seconds."
 
@@ -82,23 +82,23 @@ But the theatre's center of gravity had already moved, because up in the Ravager
 
 "Say it, Yondu."
 
-"*Twenty years,*" Yondu said, and his voice came out wrong, scraped, the drawl burned off it. "Kree battle slave. Twenty years 'fore you bought me out, an' you know what I 'membered tonight, watchin' that? Not the fightin'. The *chalk*. They wrote my weight on the pen wall in chalk. Little numbers." His hand came down off the fin. "Weren't nobody ever walked into *that* market an' asked who held the keys."
+"*Twenty years,*" Yondu said, and his voice came out wrong, scraped, the drawl burned off it. "Kree battle slave. Twenty years 'fore you bought me out, an' you know what I 'membered tonight? Not the fightin'. The *chalk*. They wrote my weight on the pen wall in chalk. Little numbers." His hand came down off the fin. "Weren't nobody ever walked into *that* market an' asked who held the keys."
 
 "I did," Stakar said. "I walked into yours."
 
 "You *bought* me out, Stakar. Legal-like. Left the market standin'." Yondu's teeth showed, and it wasn't a grin. "Boy didn't leave the market standin'."
 
-"They *took me apart*," said Rocket, and the tier went still, because Rocket Raccoon did not volunteer, ever, and here he was with his claws dug into the seatback and his eyes on the smoke still ghosting on the screen. "Cage, chalk, lot number. Subject Eight-Nine-P-One-Three. Nobody came. I chewed my own way out, an' you wanna know the sick joke? I used to lie in that cage an' make up exactly this guy. Big idiot, kicks the door in, doesn't negotiate, torches the paperwork so they can't just restock." He unhooked his claws one at a time. "Kid me owes the screen an apology. Turns out I wasn't makin' him up. I was just early."
+"They *took me apart*," said Rocket, and the tier went still, because Rocket Raccoon did not volunteer, ever, and here he was with his claws dug into the seatback. "Cage, chalk, lot number. Subject Eight-Nine-P-One-Three. Nobody came. I chewed my own way out, an' you wanna know the sick joke? I used to lie in that cage an' make up exactly this guy. Big idiot, kicks the door in, doesn't negotiate, torches the paperwork so they can't restock." He unhooked his claws one at a time. "Kid me owes the screen an apology. Turns out I wasn't makin' him up. I was just early."
 
-"He killed them all," Nebula said, from the row above, in that ruined-machinery voice, and Gamora beside her didn't flinch. "The ones who ran and the ones who knelt. Good. When Thanos took us, whole worlds knelt. Kneeling is what they do *when the strong show up.* It is not repentance. It is inventory." She looked at her sister. "The green one disagrees."
+"He killed them all," Nebula said, from the row above, in that ruined-machinery voice. "The ones who ran and the ones who knelt. Good. When Thanos took us, whole worlds knelt. Kneeling is what they do *when the strong show up.* It is not repentance. It is inventory." She looked at her sister. "The green one disagrees."
 
-"The green one," Gamora said slowly, "is remembering that we were merchandise that got *adopted* by the buyer, and that nobody burned that market either. No. I don't disagree. I'm deciding whether that frightens me." She watched the screen. "It doesn't. That frightens me."
+"The green one," Gamora said slowly, "is remembering that we were merchandise that got *adopted* by the buyer, and nobody burned that market either. No. I don't disagree. I'm deciding whether that frightens me." She watched the screen. "It doesn't. That frightens me."
 
 It was Kraglin who asked the actual question — Kraglin, who'd been quiet, whose voice cracked in the middle of it. "Cap'n. Stakar, sir. What he done down there. Is that... does that *count?* As code?"
 
 And the theatre saw Stakar Ogord — Starhawk, a hundred flames' admiral, the man who had exiled his own best captain for trafficking children and grieved him every day of the exile — stand up and take his time.
 
-"Ravagers don't deal in kids," Stakar said. "One law. We're thieves, smugglers, liars, and killers, and we hold *one line*, and I have burned brothers off my flame for crossing it, and it cost me more than any of you know." He didn't look at Yondu. He put his hand on Yondu's shoulder without looking, which was worse, and better. "I've heard every captain in this room ask, four chapters running, whether the dragon-boy's got a code. You're asking it backwards. Codes are what we *wrote down* because we couldn't trust ourselves to be him. He steals nothing. He frees the hold. He spaces the slavers. He burns the manifest." Stakar's voice dropped into the register of a man at a colors ceremony. "That's not *like* the code. That's the thing the code is a copy of. Boy's been flying Ravager colors his whole damn life. Nobody told him."
+"Ravagers don't deal in kids," Stakar said. "One law. We're thieves, smugglers, liars, and killers, and we hold *one line*, and I have burned brothers off my flame for crossing it, and it cost me more than any of you know." He didn't look at Yondu. He put his hand on Yondu's shoulder without looking, which was worse, and better. "Every captain in this room's been asking whether the dragon-boy's got a code. You're asking it backwards. Codes are what we *wrote down* because we couldn't trust ourselves to be him. He steals nothing. He frees the hold. He spaces the slavers. He burns the manifest." Stakar's voice dropped into the register of a man at a colors ceremony. "That's not *like* the code. That's the thing the code is a copy of. Boy's been flying Ravager colors his whole damn life. Nobody told him."
 
 "So we tell him," said Yondu, and whistled — one note, low, and the yaka arrow rose out of its holster and burned a slow crimson circle over the tier, the Ravager salute, the flame they light when one of theirs comes home. Ninety-nine flames of Stakar's fleet stood up in the dark, tier over tier, and matched it.
 
