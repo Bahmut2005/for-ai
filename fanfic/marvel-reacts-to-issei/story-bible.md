@@ -27,7 +27,8 @@ secretly preparing them, across 100 chapters, for a multiversal threat.
   and `**Gacha Pulls:**` as a numbered list, each `1. "Name" — **Rarity**`
   (names + rarities ONLY, no descriptions).
 - Then `---`, then the narrative.
-- Third-person, polished, novelistic prose. ~3,000–4,500 words per chapter.
+- Third-person, polished, novelistic prose. Target **~2,500 words per chapter**
+  (a tight, focused chapter — hit the beats well rather than padding).
 - Structure each chapter as: brief theatre framing → the gacha pull(s) playing as
   vivid immersive vision(s) → faction reactions, arguments, and ideological
   clashes → a hook into what's next.
