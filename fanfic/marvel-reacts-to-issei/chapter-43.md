@@ -8,9 +8,9 @@
 
 ---
 
-Five chapters into the Ravager arc, the theatre had learned two things about letting pirates operate the gacha: first, that the machine insulted them constantly and they had started taking it as affection; second, that the machine kept receipts.
+Three nights into the Ravager arc, the theatre had learned two things about letting pirates operate the gacha: the machine insulted them constantly, and the machine kept receipts.
 
-So when Kraglin Obfonteri hauled the operator's lever — boots planted, tongue out, one arrow-fin twitching with concentration — and the wheel came down not gold, not grey, but a shade of felted bank-vault warmth the room had seen exactly once before, nobody needed the banner explained. The banner arrived anyway, because the machine believed in ceremony the way executioners believe in sharpening.
+So when Kraglin Obfonteri hauled the operator's lever and the wheel came down in a shade of felted bank-vault warmth the room had seen exactly once before, nobody needed the banner explained. The banner arrived anyway, because the machine believed in ceremony the way executioners believe in sharpening.
 
 **FILED: CHAPTER THIRTY-EIGHT. PLAN RECEIVED. SIMULATION — PENDING.**
 
@@ -22,7 +22,7 @@ The word **PENDING** flickered. Died. Was replaced.
 
 "Oh *yes*," said the Grandmaster from his booth, already posting odds.
 
-At the end of the Ravager row, Rocket Raccoon stood up on his seat, and the theatre watched five chapters of dread and hope resolve into the purest expression his face owned — the one that meant *something is about to explode and it might legally be my fault.*
+At the end of the Ravager row, Rocket Raccoon stood up on his seat, wearing the purest expression his face owned — the one that meant *something is about to explode and it might legally be my fault.*
 
 **PULL ONE: "SIMULATION: STEAL ONE ITEM FROM ISSEI" — COMEDY-CLASS.**
 
@@ -50,17 +50,17 @@ The hedge received him.
 
 **FAILURE 7. CAUSE: NEKOMATA HEARING. SHE WAS NOT EVEN ON DUTY. THERE IS NO DUTY. THERE IS ONLY KONEKO.**
 
-**PLAN 19** went under. Rocket tunneled from a neighboring yard with a phase-cutter, beautifully, geometrically, straight toward the vault's fold — and the tunnel came out in the Hyoudou kitchen, because the property's divine blessing (requested by Asia, granted by an archangel, notarized — the caption insisted — *notarized*) gently re-curved all hostile topology toward hospitality. Miki Hyoudou looked down at the raccoon emerging from her pantry floor, decided he was a school friend of her son's, and fed him. The wards would not let him refuse. He ate three helpings. He complimented the pickles. He *meant it*, which was the worst part.
+**PLAN 19** went under. Rocket tunneled from a neighboring yard, beautifully, geometrically, straight toward the vault's fold — and the tunnel came out in the Hyoudou kitchen, because the property's divine blessing (requested by Asia, granted by an archangel, *notarized*) gently re-curved all hostile topology toward hospitality. Miki Hyoudou looked down at the raccoon emerging from her pantry floor, decided he was a school friend of her son's, and fed him. The wards would not let him refuse. He ate three helpings. He complimented the pickles. He *meant it*, which was the worst part.
 
 **FAILURE 19. CAUSE: DIVINE ENCHANTMENT. ALL ROADS INTO THIS HOUSE LEAD TO DINNER.**
 
 **FAILURES 20 THROUGH 33** scrolled in montage. Rocket in a bush at three in the morning, on the theory that even dragons sleep — bisected hedge, because Xenovia Quarta drilled Durandal in the garden at three in the morning *precisely* because that was when enemies attacked. Rocket disguised as a stray cat — a plan the machine declined to render in full, printing only **DO NOT IMPERSONATE A CAT IN A HOUSE THAT CONTAINS KUROKA** over audio of the theatre's simulated participant screaming. Rocket bribing Asia's familiar with snacks, and Rassei, a small lightning dragon of enormous principle, accepting the snacks and then electrocuting him on the grounds that the two transactions were unrelated.
 
-And **PLAN 33** — the one Shuri would ask to see again — was *good*. Rocket fabricated a replica of Ascalon II accurate to the molecule, swapped it in a nine-second window, and was four blocks away when, in an office in the Underworld, Ravel Phenex's asset ledger flagged a mass discrepancy of zero point four grams, cross-referenced it against humidity, ruled out humidity, and issued an audit. The simulation showed her arriving at the vault with a clipboard and the expression of a young woman who had found a rounding error in reality. Recovery time: eleven minutes.
+And **PLAN 33** — the one Shuri would ask to see again — was *good*. Rocket fabricated a replica of Ascalon II accurate to the molecule, swapped it in a nine-second window, and was four blocks away when, in an office in the Underworld, Ravel Phenex's asset ledger flagged a mass discrepancy of zero point four grams, ruled out humidity, and issued an audit. She arrived at the vault with a clipboard and the expression of a young woman who had found a rounding error in reality. Recovery time: eleven minutes.
 
 **FAILURE 33. CAUSE: PHENEX ACCOUNTING. THE VAULT IS NOT GUARDED BY WALLS ALONE. IT IS RECONCILED.**
 
-"Stop the tape," said Shuri, standing, to a machine that had never once obeyed anyone. "Stop — did you *see* that? Everyone is watching the swords. Watch the *ledger*. Wakanda has a shield dome; half this room has shield domes; shield domes fail. He has a seventeen-year-old with double-entry bookkeeping and a grudge-tier attention span, and *that* layer has a response time of eleven minutes across dimensions." She sat back down and began writing with both hands. "We are building an accounting department. A *terrifying* one."
+"Stop the tape," said Shuri, standing, to a machine that had never once obeyed anyone. "Everyone is watching the swords. Watch the *ledger*. Half this room has shield domes; shield domes fail. He has a seventeen-year-old with double-entry bookkeeping and a grudge-tier attention span, and *that* layer responds in eleven minutes across dimensions." She sat back down and began writing with both hands. "We are building an accounting department. A *terrifying* one."
 
 The montage accelerated. **PLANS 34 THROUGH 301**, compressed into a scrolling column of cause-of-failure stamps while sim-Rocket cycled through disguises, drones, decoys, and one unexplained submarine:
 

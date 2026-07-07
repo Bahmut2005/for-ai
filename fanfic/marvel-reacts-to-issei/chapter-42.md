@@ -72,7 +72,7 @@ But Issei didn't fly out to meet them. He knelt on the living deck, put both han
 
 **[TRANSFER.]**
 
-Doubled and redoubled dragon-power poured out of him into *engines*. Into patched hulls and dying ward-sails and a smuggler fleet that had never in its miserable underpaid existence moved like *that* — the whole flotilla lit up crimson at the seams and went across the border sea like a thrown knife, cutters falling away astern, and on the lead deck the smuggler crews were screaming, laughing, pounding the rails, and Issei Hyoudou was on his knees with his nose bleeding from the output, laughing with them.
+Doubled and redoubled dragon-power poured out of him into *engines* — into patched hulls and dying ward-sails — and the whole flotilla lit up crimson at the seams and went across the border sea like a thrown knife, cutters falling away astern, smuggler crews screaming and pounding the rails, and Issei Hyoudou on his knees with his nose bleeding from the output, laughing with them.
 
 "**Understand,**" Ddraig's voice rolled over the vision, dry as old gold, "**he could have sunk the cutters in one pass. He asked me, and I told him so. He said the fleet gets everyone out, or nothing counts. So the fleet it was. My partner does not think like a weapon. On my bad days I consider this a flaw.**"
 
@@ -84,11 +84,11 @@ The vision released them.
 
 The Ravager block erupted into what was, technically, a parliamentary debate.
 
-"That's a Ravager!" Kraglin was standing on his seat. "That's — cap'n, tell me that ain't a Ravager! Runs a blockade, pays his crew, honors terms, steals from a *lord*—"
+"That's a Ravager!" Kraglin was standing on his seat. "Cap'n, tell me that ain't a Ravager! Runs a blockade, pays his crew, honors terms—"
 
-"He didn't steal nothin', that's the problem," growled Martinex from the captains' row. "He *paid*. Emptied his accounts. A Ravager turning zero profit on a run that clean is a disgrace to the colors."
+"He turned zero profit," growled Martinex from the captains' row. "*Paid*, on a run that clean. It's a disgrace to the colors."
 
-"He turned profit." Yondu hadn't moved from the lever. He was watching the frozen dawn on the screen with an expression his crew couldn't file. "Three hundred head walked off them boats *free*, and every one of 'em's his forever now, and he didn't even do it for that. That's the richest damn haul on the board, boys. We just been countin' wrong our whole lives." He scratched at his fin, sour at his own sincerity. "Sentimental. Yeah. Machine had my number."
+"He turned profit." Yondu hadn't moved from the lever. He was watching the frozen dawn with an expression his crew couldn't file. "Three hundred head walked off them boats *free*, and every one of 'em's his forever now, and he didn't even do it for that. Richest haul on the board, boys. We just been countin' wrong our whole lives." He scratched at his fin, sour at his own sincerity. "Sentimental. Yeah. Machine had my number."
 
 "The math checks out, actually," Rocket said, and something in his voice made the Guardians look over. The raccoon wasn't joking. He was sitting very still, tail wrapped around his own feet. "Transfer, not Boost. He's got the biggest gun in every room he walks into and his first move is handing out ammo. You know how many crews I've run with?" He bared his teeth at nobody. "You know how many guys with big guns share?"
 
