@@ -6,12 +6,17 @@ theatre and forced to watch the canon life of **Issei Hyoudou**, protagonist of 
 *High School DxD* light novels, via a supernatural gacha system that randomly
 summons memories, weapons, transformations, allies, and secrets from his life.
 
-Grounded in the canonical light-novel timeline and power progression (Boosted Gear →
+Grounded in the canon-based light-novel timeline and power progression (Boosted Gear →
 Scale Mail → Illegal Move Triaina → Cardinal Crimson Promotion → Juggernaut Drive →
 Diabolos/Pseudo/True Dragon Deification → Apocalypse AnswerArms), the story is
 structured into ten arcs of ten chapters each, tracing Issei's growth from a murdered
 schoolboy to a world-level Red Dragon Emperor — and the multiverse of onlookers
 who have to reckon with him.
+
+Not every gacha pull is a straight replay of the source novels — several are
+explicitly framed in-story as simulations, alternate-branch pulls, or glimpses of
+a possible future. See the **Canon-Status Legend** below before treating any single
+chapter as locked light-novel fact.
 
 ## Reference
 
@@ -20,9 +25,37 @@ who have to reckon with him.
 - [Full 100-chapter outline](100-chapter-outline.md) — the arc-by-arc plan this
   fic follows.
 
-## Chapters (All 100 Complete)
+## Canon-Status Legend
 
-**[Complete Compiled PDF](Marvel-Reacts-Issei-Hyoudou.pdf)** — All chapters in single downloadable file (3.9 MB)
+Every gacha pull in this fic falls into one of five categories. Chapters that lean
+on the non-canon categories are labeled at the point where they diverge, so the
+speculative material stays clearly marked rather than silently presented as
+light-novel fact.
+
+| Label | Meaning |
+|---|---|
+| **[CANON]** | Adapted directly from the *High School DxD* light novels — events, power unlocks, and character beats as written. |
+| **[DRAMATIZATION]** | A canon event, expanded or staged for the theatre framing (added dialogue, reaction beats, pacing) but not contradicting the source. |
+| **[EX-FUTURE]** | A glimpse of the *High School DxD EX* continuity — a possible future roughly 30 years ahead (named children, grown-up epilogue material). Not mainline present-day canon. |
+| **[ALTERNATE PULL]** | A "what if" simulation the gacha explicitly generates rather than a memory — a hypothetical branch, not something that happened. |
+| **[ORIGINAL CROSSOVER]** | Material invented for this fic's Marvel/DxD crossover premise (the Theatre itself, the Unwritten Devourer, the sanctuary universe) — original content built to serve this story, not sourced from either franchise's canon. |
+
+Chapters built substantially around a non-**[CANON]** category (e.g., the kingdom/
+regency simulation in Ch. 31, the Beaucephalis and dragon-nest material, the entire
+Unwritten Devourer arc in Arcs 9–10) carry that label in their opening HUD block.
+
+## Chapters (All 100 Complete — Version 1.1, Repaired Edition)
+
+**[Complete Compiled PDF](Marvel-Reacts-Issei-Hyoudou.pdf)** — all 100 chapters, a real
+title-based table of contents, a canon-status legend, 100 chapter bookmarks grouped
+under 10 arc bookmarks, and footer pagination.
+
+Version 1.1 fixes an editorial audit's findings: Chapters 72–75 were rewritten to
+remove a continuity break that had briefly treated Issei as a lifelong Marvel/SHIELD
+operative instead of a subject being watched via gacha-pull memories of his own
+*DxD* canon life; terminology errors (AnswerArms misspellings, a stray DC-universe
+name, Trihexa's head count) were corrected; and stray production notes left in
+Chapters 90 and 95 were cleaned up.
 
 ### Arc 1: The Impossible Audience (Chapters 1-10)
 1. [Every Hero, Every Monster](chapter-01.md)

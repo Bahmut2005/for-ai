@@ -1,5 +1,7 @@
 # Chapter Thirty-Eight: The Dragon's Treasury
 
+**Canon Status:** [DRAMATIZATION] Built around canon elements (Ryuuteimaru, Issei's arsenal) but the treasury/archive framing itself is fic invention.
+
 **Primary Reaction Groups:** The Collector • The Grandmaster • The Ravagers • Tony Stark • Rocket
 
 **Gacha Pulls:**

@@ -1,5 +1,7 @@
 # Chapter Thirty-Two: The Kingdom That Asked for Him
 
+**Canon Status:** [ALTERNATE PULL] This chapter's gacha pulls are hypothetical simulations the Theatre generates, not memories of events that occurred in Issei's actual timeline.
+
 **Primary Reaction Groups:** Wakanda (T'Challa, Shuri, Okoye) • Atlantis (Namor) • Latveria (Doctor Doom) • Mutants (Magneto, Charles Xavier, Storm)
 
 **Gacha Pulls:**

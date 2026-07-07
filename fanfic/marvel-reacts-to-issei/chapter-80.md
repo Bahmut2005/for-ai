@@ -28,7 +28,7 @@ Uatu stepped forward. His voice carried the weight of timescale itself.
 
 The gacha spin resolved into light—*legendary* light, the kind that made even immortals shade their perception. The holographic interface expanded, revealing not a card, but a *timeline*. A ledger. A confession written in the language of creation.
 
-**[LEGENDARY UNLOCK: "HISTORY OF APOCALYPSE ANSWERSARMS"]**
+**[LEGENDARY UNLOCK: "HISTORY OF APOCALYPSE ANSWERARMS"]**
 
 The vision consumed the Theatre.
 
@@ -112,7 +112,7 @@ The vision-space trembled.
 
 The gacha card materialized then—solid, golden, impossibly heavy with implication. On its surface, an embossed statement in every language and every tongue that had ever existed:
 
-**"APOCALYPSE ANSWERSARMS — CAPABLE OF DESTROYING THE MANIFEST WORLD IF MISUSED. POWER WITHOUT WILL BECOMES ANNIHILATION. THE FIVE VOICES BOUND WITHIN SERVE AS RESTRAINT AND GUIDE. MISALIGNMENT = DETONATION."**
+**"APOCALYPSE ANSWERARMS — CAPABLE OF DESTROYING THE MANIFEST WORLD IF MISUSED. POWER WITHOUT WILL BECOMES ANNIHILATION. THE FIVE VOICES BOUND WITHIN SERVE AS RESTRAINT AND GUIDE. MISALIGNMENT = DETONATION."**
 
 Hela's hands trembled. "It's not just a weapon. It's... it's a *sealed prison*."
 
@@ -169,7 +169,7 @@ And finally, the fifth voice—so faint it was barely audible, yet so profound t
 
 The vision trembled. The voices harmonized, creating a resonance that rewrote the air itself:
 
-*"We are Apocalypse AnswersArms' conscience. We are its restraint. We are its promise. We are its answer—to the question of what power becomes when love binds it."*
+*"We are Apocalypse AnswerArms' conscience. We are its restraint. We are its promise. We are its answer—to the question of what power becomes when love binds it."*
 
 ---
 

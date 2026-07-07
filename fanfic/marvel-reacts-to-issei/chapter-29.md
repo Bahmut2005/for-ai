@@ -1,5 +1,7 @@
 # Chapter Twenty-Nine: Every Dragon Bows
 
+**Canon Status:** [ORIGINAL CROSSOVER] The multi-mythology dragon-bowing spectacle is invented for this fic, not sourced from *High School DxD* canon.
+
 **Primary Reaction Groups:** Kings and sovereigns (Black Panther, Namor, Doctor Doom, Magneto) • Dragon-connected (Thor, Loki, Fin Fang Foom, Iron Fist) • Guardians of the Galaxy (Groot, Rocket) • The resident fiancées
 
 **Gacha Pulls:**

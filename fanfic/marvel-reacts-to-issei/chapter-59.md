@@ -23,7 +23,7 @@ Across the auditorium, Victor Von Doom sat motionless, a statue of dark green an
 
 The cosmic sorcerers formed a constellation of their own: Scarlet Witch, Ancient One (still present in some iteration of continuity), Doctor Strange's other selves, and practitioners whose names would fold the tongue. They had grown quieter as Arc 6 deepened. This was judgment territory now.
 
-The Villain's Bloc—Thanos, Magneto, Lex Luthor, and a dozen others—watched with the intensity of wolves appraising another predator. There was no mockery in their eyes now. Only assessment.
+The Villain's Bloc—Thanos, Magneto, Doctor Doom, and a dozen others—watched with the intensity of wolves appraising another predator. There was no mockery in their eyes now. Only assessment.
 
 The Gacha Machine spun.
 
@@ -103,7 +103,7 @@ In the cosmic section, the Living Tribunal's three faces turned toward each othe
 
 Wanda Maximoff's eyes were red. Strange's hands were shaking. The Ancient One, in whatever form she occupied, seemed almost *sad*.
 
-The Villain's Bloc sat in unusual silence. Thanos's jaw tightened. Magneto leaned back, genuinely considering. Lex Luthor actually smiled—a thin, predatory thing—but it was a smile of respect.
+The Villain's Bloc sat in unusual silence. Thanos's jaw tightened. Magneto leaned back, genuinely considering. Doctor Doom actually smiled—a thin, predatory thing—but it was a smile of respect.
 
 ---
 

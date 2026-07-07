@@ -1,5 +1,7 @@
 # CHAPTER 91: THE CHILD IN THE FRAME
 
+**Canon Status:** [ORIGINAL CROSSOVER] Arc Ten (Chapters 91-100) — the Unwritten Devourer, the erased-timeline mechanic, and the sanctuary universe are original material built for this crossover, not sourced from *High School DxD* canon. Any named children glimpsed are *EX*-continuity futures, not present-day canon.
+
 ## HUD — THEATRE SESSION 91/100
 
 **Title:** The Child in the Frame — What Was Never Lived

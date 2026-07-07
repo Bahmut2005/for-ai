@@ -1,5 +1,7 @@
 # Chapter Twenty-Eight: Nest Brother
 
+**Canon Status:** [CANON] Beaucephalis is confirmed in-canon as Issei's adoptive dragon nest-brother; the dragon-nest customs shown here are fic dramatization built around that fact.
+
 **Primary Reaction Groups:** Dragon-Kin (Fin Fang Foom • Shang-Chi • Thor) • Siblings (Thor • Loki) • Ravagers (Yondu • Stakar • Kraglin • Rocket, honorary)
 
 **Gacha Pulls:**

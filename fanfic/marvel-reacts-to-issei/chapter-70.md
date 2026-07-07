@@ -1,4 +1,4 @@
-# CHAPTER 70: APOCALYPSE ANSWERARMSAXÁ
+# CHAPTER 70: APOCALYPSE ANSWERARMS (AxA)
 
 ## HUD — THEATRE SESSION 70/100
 
@@ -33,7 +33,7 @@ The gacha wheel appeared, massive and terrible, covered in symbols that hurt to 
 
 It stopped on gold.
 
-**GACHA PULL 1 OF 2: APOCALYPSE ANSWERARMSAXÁ VS. TARTARUS — LEGENDARY**
+**GACHA PULL 1 OF 2: APOCALYPSE ANSWERARMS (AxA) VS. TARTARUS — LEGENDARY**
 
 ---
 
@@ -133,7 +133,7 @@ The theatre erupted—not in sound, but in the violent exchange of glances, in t
 
 A holographic display manifested above the stage:
 
-**APOCALYPSE ANSWERARMSAXÁ — THREAT ASSESSMENT**
+**APOCALYPSE ANSWERARMS (AxA) — THREAT ASSESSMENT**
 
 - **FORM COMPOSITION:** Dragon-God Fusion / Cosmic Armament Integration / Reality-Warping Barrier
 - **APOCALYPSE ASCALON DEPLOYMENT:** Multi-blade arsenal system (primary threat vector)
@@ -187,7 +187,7 @@ The chamber itself seemed to breathe. Lights dimmed and brightened in a pattern 
 
 The text appeared across the stage in letters so large they seemed to be written into reality itself.
 
-**THE ROOM HAS NOW WITNESSED ALL FORMS OF ISSEI HYOUDOU'S TRANSFORMATION CASCADE. EVERY EVOLUTION. EVERY FORM. FROM GREMORY'S PAWN TO PSEUDO-SEKIRYUUTEI TO TRUE DRAGON DEIFICATION TO DIABOLOS DRAGON TO APOCALYPSE ANSWERARMSAXÁ.**
+**THE ROOM HAS NOW WITNESSED ALL FORMS OF ISSEI HYOUDOU'S TRANSFORMATION CASCADE. EVERY EVOLUTION. EVERY FORM. FROM GREMORY'S PAWN TO PSEUDO-SEKIRYUUTEI TO TRUE DRAGON DEIFICATION TO DIABOLOS DRAGON TO APOCALYPSE ANSWERARMS (AxA).**
 
 **POWER ASSESSMENT: COMPLETE.**
 

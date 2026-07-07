@@ -1,6 +1,6 @@
 # Chapter Seventy-One: Three Deaths
 
-**Primary Reaction Groups:** heroes (Batman-style moralists) • antiheroes • cosmic judges • wives
+**Primary Reaction Groups:** heroes (street-level moralists) • antiheroes • cosmic judges • wives
 
 **Gacha Pulls:**
 1. "Death by Raynare" — **SSR**

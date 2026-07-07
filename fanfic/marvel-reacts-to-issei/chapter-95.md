@@ -187,13 +187,13 @@ If negotiation and integration succeed, Marvel will not return to its previous s
 
 **CHAPTER 95 COMPLETE**
 
-**ARC EIGHT FINALE: THE FINAL ARC HAS BEEN INTRODUCED**
+**ARC TEN, MIDPOINT: THE FINAL ARC'S TERMS ARE SET**
 
 **FIVE CHAPTERS REMAINING (96-100):**
-- Chapter 96: The Negotiation Begins
-- Chapter 97: The Devourer's Case
-- Chapter 98: The Integration Protocol
-- Chapter 99: The Sacrifice That Isn't
-- Chapter 100: The New Multiverses
+- Chapter 96: The Alliance Nobody Wanted
+- Chapter 97: Gacha of One Hundred Worlds
+- Chapter 98: Apocalypse Is Not Enough
+- Chapter 99: Emperor of Hope
+- Chapter 100: The Final Reward
 
 **THE FINAL ARC: "NOT POWER, BUT UNDERSTANDING"**

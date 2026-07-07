@@ -432,7 +432,7 @@ Gacha Pulls: *Device Capable of Ending a War at Unacceptable Cost* (Forbidden);
 **Chapter 77 — Trihexa**  
 Primary Reaction Groups: everyone; the theatre holds collective breath.  
 Gacha Pulls: *Origin and Threat of Trihexa* (Legendary); *Azazel’s Plan to Seal It* (Secret).  
-*Summary*: Trihexa, the Apocalypse Dragon, is introduced.  It is an eight‑headed monster that threatens the world【8†L1-L8】.  The war escalates when Trihexa is unleashed.  The gacha explains that Team D×D formed to stop Rizevim from using Trihexa against Great Red【8†L1-L8】.  Marvel grows silent.  Azazel’s plan to seal Trihexa and multiple mythology leaders inside an Isolation Barrier Field is revealed【8†L1-L8】.
+*Summary*: Trihexa, the Apocalypse Dragon, is introduced.  It is a seven‑headed monster that threatens the world【8†L1-L8】.  The war escalates when Trihexa is unleashed.  The gacha explains that Team D×D formed to stop Rizevim from using Trihexa against Great Red【8†L1-L8】.  Marvel grows silent.  Azazel’s plan to seal Trihexa and multiple mythology leaders inside an Isolation Barrier Field is revealed【8†L1-L8】.
 
 **Chapter 78 — The Trihexa Slayer**  
 Primary Reaction Groups: Avengers, mutants, gods, cosmic beings, villains.  

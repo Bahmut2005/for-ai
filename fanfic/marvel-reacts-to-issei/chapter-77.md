@@ -20,7 +20,7 @@ This was the silence of people watching the apocalypse begin.
 
 On screen: Trihexa.
 
-Eight heads. Eight mouths ringed with teeth that existed in more than three dimensions, teeth that seemed to feed on the very concept of reality. Scales that reflected colors that had no names. A body that dwarfed mountains. A dragon so fundamentally *wrong* that the visual feed struggled to process its shape.
+Seven heads. Seven mouths ringed with teeth that existed in more than three dimensions, teeth that seemed to feed on the very concept of reality. Scales that reflected colors that had no names. A body that dwarfed mountains. A dragon so fundamentally *wrong* that the visual feed struggled to process its shape.
 
 ```
 [ENTITY CLASSIFICATION: TRIHEXA - APOCALYPSE DRAGON]
@@ -45,7 +45,7 @@ The theatre erupted.
 
 **FURY**: "What the hell is that thing?"
 
-**BRUCE BANNER**: "That's the thing from mythology. The Eight-Headed Dragon. If that was ever actually real—"
+**BRUCE BANNER**: "That's the thing from mythology. The Seven-Headed Dragon. If that was ever actually real—"
 
 **WANDA**: "It's not myth. It's *there*. I can feel it. It's so *angry*."
 
