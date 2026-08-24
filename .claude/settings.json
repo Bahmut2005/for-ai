@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "han": {
+      "source": {
+        "source": "github",
+        "repo": "testdouble/han"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "han@han": true
+  }
+}
