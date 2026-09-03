@@ -83,6 +83,21 @@ All data is obtained through official public APIs or manually entered. We do not
 - **TVMaze** — CC BY-SA 4.0
 - **Open Library** — CC0 / CC BY
 
+## The Omniverse Wheel plugin
+
+This repo is also a Claude Code plugin marketplace. The `omniverse` plugin ships the
+`omniverse-wheel` skill so you can spin the wheel from any project:
+
+```shell
+/plugin marketplace add bahmut2005/for-ai
+/plugin install omniverse@omniverse-plugins
+/omniverse:omniverse-wheel horror anime 90s
+```
+
+The skill calls a running instance, resolved as `$OMNIVERSE_WHEEL_URL` if set and
+`http://localhost:3000` otherwise. See [docs/plugin-marketplace.md](docs/plugin-marketplace.md)
+for the marketplace layout, how to add another plugin, and the release process.
+
 ## Tech Stack
 
 - **Next.js 14** (App Router)

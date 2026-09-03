@@ -1,0 +1,18 @@
+{
+  "name": "omniverse-plugins",
+  "description": "Plugins built around The Omniverse Wheel media recommendation app.",
+  "owner": {
+    "name": "bahmut2005",
+    "url": "https://github.com/bahmut2005"
+  },
+  "plugins": [
+    {
+      "name": "omniverse",
+      "displayName": "The Omniverse Wheel",
+      "source": "./plugins/omniverse",
+      "description": "Spin The Omniverse Wheel for a random anime, manga, movie, game, TV show, or comic recommendation, with optional filters.",
+      "category": "entertainment",
+      "tags": ["anime", "manga", "movies", "games", "recommendations", "random"]
+    }
+  ]
+}

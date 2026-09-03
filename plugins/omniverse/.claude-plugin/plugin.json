@@ -1,0 +1,12 @@
+{
+  "name": "omniverse",
+  "description": "Spin The Omniverse Wheel for a random anime, manga, movie, game, TV show, or comic recommendation, with optional filters.",
+  "version": "1.0.0",
+  "author": {
+    "name": "bahmut2005",
+    "url": "https://github.com/bahmut2005"
+  },
+  "homepage": "https://github.com/bahmut2005/for-ai#the-omniverse-wheel-plugin",
+  "repository": "https://github.com/bahmut2005/for-ai",
+  "keywords": ["anime", "manga", "movies", "games", "recommendations", "random"]
+}
